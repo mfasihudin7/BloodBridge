@@ -29,6 +29,3 @@ export interface ReviewCnicInput {
   rejection_reason?: string;
 }
 
-sbp_fc09861831307bb407a14d2e2fb92dd8ae41752c
-
-
